@@ -1,0 +1,11 @@
+let 
+ var N := 8
+
+    type intArray = array of int
+var col := intArray [ N ] of 0
+function printboard() =
+       (
+         print("\n"))
+in
+    0
+end
